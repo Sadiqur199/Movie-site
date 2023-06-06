@@ -1,0 +1,11 @@
+.image-resize{
+  height: 400px;
+}
+
+a{
+  text-decoration: none;
+  
+}
+.text-body{
+  --bs-text-opacity:none;
+}
