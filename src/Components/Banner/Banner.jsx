@@ -7,9 +7,9 @@ import img3 from '../../assets/3.jpg'
 const Banner = () => {
   return (
 
-    <div className='mt-sm-5 mt-md-0'>
+    <div className='mt-sm-5 mt-md-3'>
       <img
-        className="d-block w-100"
+        className=" w-100"
         src={img2}
         alt=""
       />
